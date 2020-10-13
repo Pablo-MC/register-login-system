@@ -17,4 +17,4 @@
 
 ### Screenshot
 
-<img src="client/public/screenshot.jpg" width="700">
+<img src="client/public/screenshot.jpg" width="800">
